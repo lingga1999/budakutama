@@ -24,7 +24,9 @@ var xxx=null;
 if(x=="1"){xxx="replacing-tuning-box-or-diesel.html"}
 if(x=="2"){xxx="tips-tricks-and-advice-on-auto-insurance.html"}
 if(x=="3"){xxx="4-tips-to-help-you-find-reputable.html"}
-if(x=="4"){xxx="things-to-consider-before-you-apply-for.html"}a_to_ve[i].href="https://berkas.budakbego.net/2019/02/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="4"){xxx="things-to-consider-before-you-apply-for.html"}
+if(x=="5"){xxx="the-importance-of-credit-cards-today.html"}
+if(x=="6"){xxx="some-tips-for-finding-good-personal.html"}a_to_ve[i].href="https://berkas.budakbego.net/2019/02/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
